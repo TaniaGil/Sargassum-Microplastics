@@ -1,0 +1,266 @@
+MES,MUESTRA,TIPO,COLOR ,FORMA,CANTIDAD
+Febrero,A,L,Transparente,Fibra,31
+Febrero,A,L,Azul,Fibra,9
+Febrero,A,L,Negro,Fibra,18
+Febrero,A,L,Negro,Fragmento,1
+Febrero,A,L,Rojo,Fibra,3
+Febrero,A,L,Multicolor,Fibra,5
+Febrero,A,F,Transparente,Fibra,1
+Febrero,A,F,Azul,Fibra,3
+Febrero,A,F,Negro,Fibra,6
+Febrero,A,F,Otros,Fragmento,1
+Marzo,A,L,Transparente,Fibra,35
+Marzo,A,L,Azul,Fibra,8
+Marzo,A,L,Negro,Fibra,1
+Marzo,A,L,Rojo,Fibra,3
+Marzo,A,L,Otros,Fibra,2
+Marzo,A,F,Transparente,Fibra,1
+Marzo,A,F,Azul,Fibra,8
+Marzo,A,F,Negro,Fibra,6
+Marzo,A,F,Multicolor,Fibra,1
+Marzo,B,L,Transparente,Fibra,18
+Marzo,B,L,Azul,Fibra,6
+Marzo,B,L,Negro,Fibra,1
+Marzo,B,L,Negro,Fragmento,4
+Marzo,B,L,Rojo,Fibra,1
+Marzo,B,L,Otros,Fibra,1
+Marzo,B,F,Transparente,Fibra,3
+Marzo,B,F,Azul,Fibra,4
+Marzo,B,F,Negro,Fibra,7
+Marzo,B,F,Negro,Fragmento,7
+Marzo,B,F,Negro,Esfera,1
+Marzo,B,F,Rojo,Fibra,1
+Marzo,B,F,Multicolor,Fibra,2
+Marzo,B,F,Otros,Fibra,2
+Marzo,C,L,Transparente,Fibra,26
+Marzo,C,L,Azul,Fibra,6
+Marzo,C,L,Negro,Fibra,7
+Marzo,C,L,Negro,Fragmento,1
+Marzo,C,L,Rojo,Fibra,2
+Marzo,C,L,Multicolor,Fibra,1
+Marzo,C,L,Otros,Fibra,1
+Marzo,C,F,Azul,Fibra,3
+Marzo,C,F,Negro,Fibra,3
+Marzo,C,F,Negro,Fragmento,1
+Marzo,C,F,Rojo,Fibra,1
+Abril,A,L,Transparente,Fibra,24
+Abril,A,L,Azul,Fibra,10
+Abril,A,L,Azul,Fragmento,1
+Abril,A,L,Negro,Fibra,5
+Abril,A,L,Rojo,Fragmento,1
+Abril,A,L,Otros,Fibra,3
+Abril,A,F,Transparente,Fibra,3
+Abril,A,F,Azul,Fibra,8
+Abril,A,F,Negro,Fibra,8
+Abril,A,F,Rojo,Fibra,1
+Abril,A,F,Multicolor,Fibra,2
+Abril,A,F,Otros,Fibra,1
+Abril,B,L,Transparente,Fibra,39
+Abril,B,L,Azul,Fibra,10
+Abril,B,L,Azul,Fragmento,1
+Abril,B,L,Negro,Fibra,11
+Abril,B,L,Rojo,Fibra,4
+Abril,B,L,Multicolor,Fibra,9
+Abril,B,F,Transparente,Fibra,2
+Abril,B,F,Azul,Fibra,15
+Abril,B,F,Negro,Fibra,5
+Abril,B,F,Rojo,Fibra,1
+Abril,B,F,Multicolor,Fibra,1
+Abril,C,L,Transparente,Fibra,16
+Abril,C,L,Azul,Fibra,8
+Abril,C,L,Negro,Fibra,4
+Abril,C,L,Rojo,Fibra,4
+Abril,C,L,Multicolor,Fibra,2
+Abril,C,L,Multicolor,Film,1
+Abril,C,F,Transparente,Fibra,2
+Abril,C,F,Azul,Fibra,16
+Abril,C,F,Negro,Fibra,9
+Abril,C,F,Rojo,Fibra,2
+Abril,C,F,Otros,Fibra,1
+Mayo ,D,L,Transparente,Fibra,11
+Mayo ,D,L,Azul,Fibra,1
+Mayo ,D,L,Azul,Fragmento,2
+Mayo ,D,L,Negro,Fibra,4
+Mayo ,D,L,Negro,Fragmento,2
+Mayo ,D,L,Rojo,Fibra,1
+Mayo ,D,F,Azul,Fibra,5
+Mayo ,D,F,Negro,Fibra,3
+Mayo ,D,F,Rojo,Fibra,1
+Mayo ,D,F,Multicolor,Fibra,1
+Mayo ,E,L,Transparente,Fibra,9
+Mayo ,E,L,Azul,Fibra,6
+Mayo ,E,L,Negro,Fibra,3
+Mayo ,E,L,Negro,Fragmento,1
+Mayo ,E,L,Rojo,Fibra,1
+Mayo ,E,F,Transparente,Fibra,1
+Mayo ,E,F,Negro,Fibra,2
+Mayo ,E,F,Rojo,Fibra,2
+Mayo ,E,F,Multicolor,Fibra,1
+Mayo ,F,L,Transparente,Fibra,7
+Mayo ,F,L,Azul,Fibra,2
+Mayo ,F,L,Negro,Fibra,4
+Mayo ,F,L,Multicolor,Fibra,2
+Mayo ,F,F,Azul,Fibra,1
+Mayo ,F,F,Negro,Fibra,4
+Mayo ,F,F,Rojo,Fibra,1
+Junio,D,L,Transparente,Fibra,4
+Junio,D,L,Azul,Fibra,2
+Junio,D,L,Negro,Fibra,1
+Junio,D,L,Negro,Fragmento,1
+Junio,D,L,Otros,Fibra,1
+Junio,D,F,Transparente,Fibra,1
+Junio,D,F,Azul,Fibra,4
+Junio,D,F,Negro,Fibra,3
+Junio,D,F,Negro,Fragmento,1
+Junio,D,F,Rojo,Fibra,3
+Junio,E,L,Transparente,Fibra,3
+Junio,E,L,Azul,Fibra,3
+Junio,E,L,Negro,Fibra,1
+Junio,E,L,Rojo,Fibra,1
+Junio,E,F,Transparente,Fibra,3
+Junio,E,F,Azul,Fibra,2
+Junio,E,F,Negro,Fibra,1
+Junio,E,F,Rojo,Fibra,1
+Junio,E,F,Multicolor,Fibra,1
+Junio,F,L,Transparente,Fibra,5
+Junio,F,L,Azul,Fibra,1
+Junio,F,L,Negro,Fibra,2
+Junio,F,L,Multicolor,Fibra,1
+Junio,F,L,Multicolor,Film,1
+Junio,F,F,Transparente,Fibra,1
+Junio,F,F,Azul,Fibra,2
+Junio,F,F,Negro,Fibra,1
+Junio,F,F,Rojo,Fibra,1
+Junio,F,F,Multicolor,Fibra,1
+Julio,D,L,Transparente,Fibra,12
+Julio,D,L,Azul,Fibra,3
+Julio,D,L,Negro,Fibra,6
+Julio,D,L,Negro,Fragmento,1
+Julio,D,L,Rojo,Fibra,2
+Julio,D,L,Otros,Fragmento,2
+Julio,D,F,Transparente,Fibra,2
+Julio,D,F,Azul,Fibra,2
+Julio,D,F,Negro,Fibra,2
+Julio,E,L,Transparente,Fibra,9
+Julio,E,L,Azul,Fibra,5
+Julio,E,L,Azul,Fragmento,5
+Julio,E,L,Negro,Fibra,13
+Julio,E,F,Azul,Fibra,6
+Julio,E,F,Negro,Fibra,12
+Julio,E,F,Rojo,Fibra,2
+Julio,E,F,Otros,Fibra,2
+Julio,F,L,Transparente,Fibra,5
+Julio,F,L,Azul,Fibra,3
+Julio,F,L,Negro,Fibra,9
+Julio,F,L,Rojo,Fibra,1
+Julio,F,L,Multicolor,Film,1
+Julio,F,F,Azul,Fibra,8
+Julio,F,F,Negro,Fibra,4
+Julio,F,F,Rojo,Fibra,1
+Agosto,D,L,Transparente,Fibra,12
+Agosto,D,L,Azul,Fibra,9
+Agosto,D,L,Azul,Fragmento,1
+Agosto,D,L,Negro,Fibra,5
+Agosto,D,L,Rojo,Fibra,1
+Agosto,D,L,Rojo,Fragmento,1
+Agosto,D,F,Azul,Fibra,3
+Agosto,D,F,Azul,Fragmento,1
+Agosto,D,F,Negro,Fibra,2
+Agosto,D,F,Rojo,Fibra,1
+Agosto,D,F,Otros,Fibra,1
+Agosto,E,L,Transparente,Fibra,12
+Agosto,E,L,Azul,Fibra,4
+Agosto,E,L,Azul,Fragmento,1
+Agosto,E,L,Negro,Fibra,3
+Agosto,E,L,Negro,Fragmento,3
+Agosto,E,L,Rojo,Fibra,1
+Agosto,E,L,Multicolor,Fibra,1
+Agosto,E,F,Transparente,Fibra,1
+Agosto,E,F,Azul,Fibra,5
+Agosto,E,F,Negro,Fibra,3
+Agosto,F,L,Transparente,Fibra,5
+Agosto,F,L,Azul,Fibra,2
+Agosto,F,L,Azul,Fragmento,1
+Agosto,F,L,Negro,Fibra,4
+Agosto,F,L,Negro,Fragmento,1
+Agosto,F,L,Rojo,Fibra,1
+Agosto,F,F,Transparente,Fibra,4
+Agosto,F,F,Azul,Fibra,6
+Agosto,F,F,Negro,Fibra,3
+Agosto,F,F,Rojo,Fibra,1
+Septiembre,D,L,Transparente,Fibra,11
+Septiembre,D,L,Azul,Fibra,3
+Septiembre,D,L,Azul,Film,1
+Septiembre,D,L,Negro,Fibra,2
+Septiembre,D,L,Otros,Fibra,2
+Septiembre,D,F,Transparente,Fibra,4
+Septiembre,D,F,Azul,Fibra,9
+Septiembre,D,F,Negro,Fibra,17
+Septiembre,D,F,Rojo,Fibra,2
+Septiembre,D,F,Otros,Fragmento,1
+Septiembre,D,F,Otros,Film,1
+Septiembre,E,L,Transparente,Fibra,5
+Septiembre,E,L,Azul,Fibra,2
+Septiembre,E,L,Negro,Fibra,4
+Septiembre,E,L,Rojo,Fibra,1
+Septiembre,E,F,Transparente,Fibra,1
+Septiembre,E,F,Azul,Fibra,13
+Septiembre,E,F,Negro,Fibra,33
+Septiembre,E,F,Rojo,Fibra,9
+Septiembre,E,F,Multicolor,Fibra,1
+Septiembre,E,F,Otros,Fibra,3
+Septiembre,F,L,Transparente,Fibra,8
+Septiembre,F,L,Azul,Fibra,1
+Septiembre,F,L,Negro,Fibra,2
+Septiembre,F,L,Rojo,Fibra,2
+Septiembre,F,F,Azul,Fibra,9
+Septiembre,F,F,Azul,Film,1
+Septiembre,F,F,Negro,Fibra,14
+Septiembre,F,F,Multicolor,Fibra,1
+Octubre,D,L,Transparente,Fibra,1
+Octubre,D,L,Negro,Fragmento,3
+Octubre,D,L,Multicolor,Fragmento,1
+Octubre,D,F,Transparente,Fibra,1
+Octubre,D,F,Azul,Fibra,2
+Octubre,D,F,Negro,Fibra,5
+Octubre,D,F,Negro,Fragmento,10
+Octubre,E,L,Negro,Fibra,1
+Octubre,E,L,Negro,Fragmento,3
+Octubre,E,F,Azul,Fibra,1
+Octubre,E,F,Negro,Fibra,4
+Octubre,E,F,Negro,Fragmento,4
+Octubre,E,F,Rojo,Fibra,3
+Octubre,E,F,Multicolor,Fibra,1
+Octubre,F,L,Transparente,Fibra,2
+Octubre,F,L,Azul,Fibra,2
+Octubre,F,L,Negro,Fibra,2
+Octubre,F,L,Negro,Fragmento,9
+Octubre,F,F,Azul,Fibra,4
+Octubre,F,F,Negro,Fibra,7
+Octubre,F,F,Negro,Fragmento,9
+Enero,D,L,Transparente,Fibra,1
+Enero,D,L,Negro,Fragmento,1
+Enero,D,F,Transparente,Fibra,1
+Enero,D,F,Azul,Fibra,5
+Enero,D,F,Negro,Fibra,8
+Enero,D,F,Negro,Fragmento,3
+Enero,D,F,Multicolor,Fibra,1
+Enero,E,L,Transparente,Fibra,3
+Enero,E,L,Azul,Fibra,3
+Enero,E,L,Negro,Fibra,1
+Enero,E,L,Negro,Fragmento,1
+Enero,E,F,Transparente,Fibra,4
+Enero,E,F,Azul,Fibra,6
+Enero,E,F,Negro,Fibra,3
+Enero,E,F,Negro,Fragmento,1
+Enero,E,F,Rojo,Fibra,2
+Enero,F,L,Transparente,Fibra,5
+Enero,F,L,Azul,Fibra,2
+Enero,F,F,Transparente,Fibra,1
+Enero,F,F,Transparente,Fragmento,1
+Enero,F,F,Azul,Fibra,2
+Enero,F,F,Negro,Fibra,6
+Enero,F,F,Negro,Fragmento,1
+Enero,F,F,Rojo,Fibra,5
+Enero,F,F,Multicolor,Fibra,2
+Enero,F,F,Otros,Fibra,1
